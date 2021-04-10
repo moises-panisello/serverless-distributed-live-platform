@@ -5,3 +5,6 @@ results/
 /secrets/*
 !/secrets/*.example
 */node_modules
+*/.terraform*
+*/secrets
+*/*tfstate*
